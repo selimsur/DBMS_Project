@@ -68,3 +68,11 @@ C:\Users\Hakan\Desktop\databaseProject\DBMS_Project\PharmacyManagement\PharmacyM
 C:\Users\Hakan\Desktop\databaseProject\DBMS_Project\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.csproj.CopyComplete
 C:\Users\Hakan\Desktop\databaseProject\DBMS_Project\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.exe
 C:\Users\Hakan\Desktop\databaseProject\DBMS_Project\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.pdb
+C:\Users\asus\Desktop\databaseProject\DBMS_Project\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.Form2.resources
+C:\Users\asus\Desktop\databaseProject\DBMS_Project\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.Properties.Form3.resources
+C:\Users\asus\Desktop\databaseProject\DBMS_Project\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.Form4.resources
+C:\Users\asus\Desktop\databaseProject\DBMS_Project\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.Form5.resources
+C:\Users\asus\Desktop\databaseProject\DBMS_Project\PharmacyManagement\PharmacyManagement\bin\Debug\HtmlAgilityPack.dll
+C:\Users\asus\Desktop\databaseProject\DBMS_Project\PharmacyManagement\PharmacyManagement\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\asus\Desktop\databaseProject\DBMS_Project\PharmacyManagement\PharmacyManagement\bin\Debug\HtmlAgilityPack.xml
+C:\Users\asus\Desktop\databaseProject\DBMS_Project\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.csproj.ResolveComReference.cache

@@ -34,18 +34,28 @@ namespace PharmacyManagement
             command = new MySqlCommand();
             connection.Open();
             command.Connection = connection;
-            command.CommandText = "SELECT * FROM users where tc='" + textBox1.Text + "' AND password='" + textBox2.Text + "'";
+            command.CommandText = " SELECT * FROM users where tc='" + textBox1.Text + "' AND password='" + textBox2.Text + "' AND id='1' ";
             dataReader = command.ExecuteReader();
 
             if (dataReader.Read())
             {
                 f2.Show();
+                connection.Close();
             }
             else
             {
-                MessageBox.Show("basarisiz");
+                connection.Close();
+                connection.Open();
+                command.Connection = connection;
+                command.CommandText = " SELECT * FROM users where tc='" + textBox1.Text + "' AND password='" + textBox2.Text + "' ";
+                dataReader = command.ExecuteReader();
+                if (dataReader.Read())
+                {
+                    MessageBox.Show("user");
+                }
             }
             connection.Close();
+            
 
         }
     }
