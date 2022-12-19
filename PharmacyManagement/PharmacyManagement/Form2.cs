@@ -21,7 +21,7 @@ namespace PharmacyManagement
         MySqlCommand command;
         string connectionString = "Server=localhost;Database=pharmacymanagementsystem;user=root;Pwd=;SslMode=none";
         byte[] binaryData;
-        byte[] defaultBinaryData = File.ReadAllBytes("C:\\Users\\asus\\Desktop\\databaseProject\\DBMS_Project\\noImage.jpg");
+        byte[] defaultBinaryData = File.ReadAllBytes("C:\\Users\\selim\\Desktop\\DBMS_Project\\noImage.jpg");
         string ilac_ad, ilac_ucret;
 
         public Form2()
@@ -115,7 +115,7 @@ namespace PharmacyManagement
             string filePath;
             string fileName;
 
-            filePath = "C:\\Users\\asus\\Desktop\\databaseProject\\DBMS_Project\\ilaclar.xlsx";
+            filePath = "C:\\Users\\selim\\Desktop\\DBMS_Project\\ilaclar.xlsx";
             fileName = "ilaclar.xlsx";
 
             ExcelApp.Application excelApp = new ExcelApp.Application();
